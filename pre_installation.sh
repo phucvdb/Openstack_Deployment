@@ -1,5 +1,5 @@
 #!/bin/bash -exv
-#sudo apt-get update -y
+sudo apt-get update -y
 
 # Import the variable Env
 source deployment.cfg 
